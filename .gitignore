@@ -1,3 +1,4 @@
+.DS_Store
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### secure bundle ###
+/src/main/resources/secure-connect.zip

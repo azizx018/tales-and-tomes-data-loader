@@ -35,3 +35,6 @@ build/
 
 ### secure bundle ###
 /src/main/resources/secure-connect.zip
+
+### application  files###
+/src/main/resources/application.yml

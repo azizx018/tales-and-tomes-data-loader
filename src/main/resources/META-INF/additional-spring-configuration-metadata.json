@@ -1,5 +1,27 @@
-{"properties": [{
-  "name": "datastax.astra.secure-connect-bundle",
-  "type": "java.lang.String",
-  "description": "A description for 'datastax.astra.secure-connect-bundle'"
-}]}
+{"properties": [
+  {
+    "name": "datastax.astra.secure-connect-bundle",
+    "type": "java.lang.String",
+    "description": "A description for 'datastax.astra.secure-connect-bundle'"
+  },
+  {
+    "name": "spring.cassandra.main.allow-circular-references",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cassandra.main.allow-circular-references'"
+  },
+  {
+    "name": "spring.cassandra.config",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cassandra.config'"
+  },
+  {
+    "name": "spring.cassandra.keyspace-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cassandra.keyspace-name'"
+  },
+  {
+    "name": "spring.cassandra.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cassandra.username'"
+  }
+]}

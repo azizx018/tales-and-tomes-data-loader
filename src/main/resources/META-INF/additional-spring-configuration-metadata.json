@@ -23,5 +23,30 @@
     "name": "spring.cassandra.username",
     "type": "java.lang.String",
     "description": "A description for 'spring.cassandra.username'"
+  },
+  {
+    "name": "datadump.location.author",
+    "type": "java.lang.String",
+    "description": "A description for 'datadump.location.author'"
+  },
+  {
+    "name": "datadump.location.author",
+    "type": "java.lang.String",
+    "description": "A description for 'datadump.location.author'"
+  },
+  {
+    "name": "datadump.location.author",
+    "type": "java.lang.String",
+    "description": "A description for 'datadump.location.author'"
+  },
+  {
+    "name": "datadump.location.works",
+    "type": "java.lang.String",
+    "description": "A description for 'datadump.location.works'"
+  },
+  {
+    "name": "datadump.location.author",
+    "type": "java.lang.String",
+    "description": "A description for 'datadump.location.author'"
   }
 ]}
